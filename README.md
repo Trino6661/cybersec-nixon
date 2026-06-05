@@ -52,5 +52,5 @@
 ---
 
 ## 📬 Contacto
-- **GitHub:** [@Trino6661
+- **GitHub:** @Trino6661
 - **Ubicación:** Santo Domingo, RD
